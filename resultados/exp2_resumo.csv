@@ -1,0 +1,5 @@
+,precisao,precisao,revocacao,revocacao,taxa_acerto,taxa_acerto
+,mean,std,mean,std,mean,std
+metodo,,,,,,
+Aleatório,0.14,0.01,0.25,0.06,1.35,0.1
+BFS (amigos em comum),24.68,0.22,54.42,0.35,85.65,0.76
